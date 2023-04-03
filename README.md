@@ -1,11 +1,11 @@
 ## MITRE Histology Toolkit 
 
-Public Release
+### Public Release
 
 ©2022 The MITRE Corporation for Public Release; Distribution Unlimited. Public Release Case Number 22-4246 
 License
 
-## Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
+### Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
 http://www.apache.org/licenses/LICENSE-2.0
 
